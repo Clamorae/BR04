@@ -1,0 +1,40 @@
+utilisé les nouvelles techno pour le lié avec la culture
+parcelle dédié à ce projet
+déja une doubl serre connecté de chez myfood
+    plein de capteur partout
+        capteur ph
+        poele pour l'hiver
+        velux sur verrin autocommander
+    aquapony
+    => objectif passez le moins de temps dans la serre (moins de 30% de leur temps)
+
+trois carré potager avec des farmbot (deux de la gamme express et un ????)
+ruches connecté
+composteur connecté
+récupérateur d'eau
+
+=> objectif que l'asso qui gere la ferme passe le moins de temps a gere l'ensemble de la parcelle
+
+1ere partie :
+modelisation de la parcelle
+
+2eme partie
+interface 
+
+=> app pc (utilisation unity donc peut porter sur téléphone)
+
+peut visiter le site
+
+autre travaux deja commencé pour créer des cartes pour recup les données et les envoyer sur un serv
+considere que un serv a toute les donnée => nous questionnons uniquement le serveur
+
+si possible rend l'app modulaire
+
+vue à la première personne
+
+(partie controle optionnel => objectif juste visualisation de données)(j'espere qu'on va la faire)
+
+commence par se renseigner sur les serres et farmbot
+farmbot (model 3D recuperable dans la doc)
+
+vendredi 11H rdv ferme
